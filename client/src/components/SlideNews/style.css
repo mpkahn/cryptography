@@ -31,6 +31,7 @@
 .single-box{
     position: relative;
     margin-bottom: 30%;
+    margin-top: 16%;
 }
 .img-area{
     position: absolute;
@@ -49,7 +50,7 @@
 }
 .carousel-indicators{
     left: 0;
-    top: 412px;
+    top: 480px;
     bottom: -70px;
 }
 .carousel-indicators li{

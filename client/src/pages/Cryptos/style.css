@@ -1,14 +1,23 @@
-.addCrypto {
-    font-size: 43px;
+/* .addCrypto {
+    font-size: 35px;
     text-align: center;
     font-family: 'Roboto Slab', serif;
     color: #4561b1;
 }
 
 .my-coins {
-    font-size: 43px;
+    font-size: 35px;
     text-align: center;
     font-family: 'Roboto Slab', serif;
     color: #4561b1;
+
+} */
+
+.addCrypto, .my-coins{
+    font-size: 35px;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    color: #4561b1;
+    margin-bottom: 1em;
 
 }
