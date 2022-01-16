@@ -1,18 +1,19 @@
 .login-text{
+    font-size: 2em;
+    margin-top: 15%;
+    margin-bottom: 24px;
     text-align: center;
-    font-size: 69px;
-    margin-top: 39px;
-    text-align: center;
-    font-family: 'Play', sans-serif;
+    font-family: 'Roboto Slab', serif;
     font-weight: 5400;
+    color: #4561b1;
 
 }
 
 .input-field{
     display: block;
-    width: 46%;
+    width: 28%;
     padding: 0.375rem 1rem;
-    font-size: 2rem;
+    font-size: 1rem;
     /* margin-left: 568px; */
     margin: auto;
     line-height: 2.5;
@@ -25,15 +26,12 @@
 }
 
 .mybtn{
-    margin-left: 45%;
-    margin-right: 55%;
-    font-size: 48px;
-    margin-top: 43px;
-    margin-bottom: 280px;
-    font-family: 'Roboto Slab', serif;
+    font-size: 19px;
+    margin: 0px 47% 280px;
+    font-family: "Roboto Slab",serif;
     border-radius: 1.25rem;
-    background-color: #359c54;
-    color: white;
+    background-color: #3b5fc3c9;
+    color: #fff;
+    border: none;
     padding: 12px;
-
 }

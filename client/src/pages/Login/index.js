@@ -50,7 +50,7 @@ render() {
           <Container className="mt-3 px-5">
                 <Row className="form-group">
                   <Col size="12">
-        <div className="login-text">Login Below!</div>
+        <div className="login-text">Login</div>
         <input className="input-field"
           type="username"
           name="username"
